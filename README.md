@@ -60,4 +60,4 @@ This project demonstrates a full **end-to-end data pipeline** using **Microsoft 
 
 **Anoj Nisal**  
 📧 anojn123@gmail.com  
-🌐 [www.linkedin.com/in/anoj-nisal
+🌐 [www.linkedin.com/in/anoj-nisal]
